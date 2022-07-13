@@ -1,2 +1,2 @@
-# cs_go_custom_maps
+# CS GO custom maps
 Counter Strike : Global Offensive Custom Maps
